@@ -11,54 +11,89 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* M.S. in Computer Science, Arizona State University, 2026 (expected)
+  * Cloud Computing, Artificial Intelligence, Agentic AI, Multimedia and Web Databases
+* B.Tech. in Electronics and Communication Engineering, Vellore Institute of Technology, 2022
+  * Artificial Intelligence, Advanced Java Programming, Database Management Systems
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Aug 2022 - Aug 2024: Associate Software Engineer
+  * Digital.ai
+  * Designed and deployed Java (Spring Boot) backend services handling high-volume REST API traffic, reducing latency by 34% and improving system reliability.
+  * Migrated persistence layer to Hibernate ORM, improving database query efficiency and increasing backend throughput by 42%.
+  * Modernized a large-scale Angular frontend, implementing Signals, zoneless change detection, and standalone components, improving maintainability and runtime performance.
+  * Profiled Angular application performance using Chrome Lighthouse and Angular DevTools, identifying bundle size and change detection bottlenecks that guided targeted UI performance optimizations.
+  * Collaborated on system design decisions focusing on scalability, fault tolerance, and performance trade-offs.
+  * Contributed to code reviews, CI/CD pipelines, and production deployments, ensuring high code quality and reliability.
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Spring 2026: Grader
+  * CSE571: Artificial Intelligence under Dr. Siddharth Srivastava
+  * Created assignments for the course, making sure they were clear and matched what students were expected to learn.
+  * Fixed and maintained an autograder to automatically check student submissions, making grading faster and more consistent.
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Programming Languages
+  * Python
+  * Java
+  * JavaScript/TypeScript
+  * SQL (Postgres, MySQL, SQLite)
+* Backend
+  * Spring Boot
+  * Node.js
+  * Express.js
+  * Hibernate
+  * Django
+  * Flask
+* Frontend
+  * Angular
+  * React
+  * HTML
+  * CSS
+* Cloud & DevOps
+  * AWS (EC2, S3, Lambda, SQS)
+  * Docker
+  * CI/CD
+  * Jenkins
+* Data/ML Libraries
+  * Pandas
+  * NumPy
+  * Scikit-learn
+  * TensorFlow
+  * PyTorch
+* Tools
+  * Git
+  * Linux
+  * Maven
+  * Postman
+  * JUnit
+  * Webpack
+  * Bash
+  * Chrome Lighthouse
+  * Angular DevTools
 
-Publications
+
+<!-- Publications
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}</ul> -->
   
-Talks
+<!-- Talks
 ======
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
+  {% endfor %}</ul> -->
   
-Teaching
+<!-- Teaching
 ======
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}</ul> -->
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Nov 2019 – Dec 2021: General Secretary – VIT LEO Club
+  * Led community initiatives and coordinated events with 200+ participants.
+  * Organized 100+ technical and outreach programs.
